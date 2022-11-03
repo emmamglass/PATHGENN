@@ -1,5 +1,5 @@
 # PATHGENN
-##PATHobiont GENRE eNsemble
+## PATHobiont GENRE eNsemble
 This repository contains the database of 914 GENREs of all known human bacterial pathobionts along with their corresponding MEMOTE benchmarking scores and associated metadata downloaded from BV-BRC.
  
 ### /GENREs
